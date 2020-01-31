@@ -10,7 +10,7 @@ export function useLazyImages<T extends HTMLElement>({
   placeholderSrc,
   placeholderSrcset,
   imagesSelector = 'img'
-}: Options): MutableRefObject<T | undefined> {
+}: Options = {}): MutableRefObject<T | undefined> {
   const ref = useRef<T>()
 
   useEffect(() => {
