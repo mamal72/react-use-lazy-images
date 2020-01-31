@@ -40,7 +40,7 @@ export function OctoCats() {
       "https://octodex.github.com/images/vinyltocat.png"
   });
   return (
-    <div ref={ref} style={}>
+    <div ref={ref} style={STYLES}>
       <h1>React Use Lazy Images</h1>
       <img
         alt="Vinyltocat"
