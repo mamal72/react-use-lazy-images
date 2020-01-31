@@ -12,7 +12,7 @@ Note that this package is using [Intersection Observer API](https://developer.mo
 Using NPM:
 
 ```bash
-npm install react-use-lazy-images
+npm i react-use-lazy-images
 ```
 
 Using Yarn:
@@ -35,7 +35,7 @@ const STYLES = {
 }
 
 export function OctoCats() {
-  const ref = useLazyLoadImages<HTMLDivElement>({
+  const ref = useLazyImages<HTMLDivElement>({
     placeholderSrc:
       "https://octodex.github.com/images/vinyltocat.png"
   });
