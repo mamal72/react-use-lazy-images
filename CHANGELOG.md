@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.8](https://github.com/mamal72/react-use-lazy-images/compare/v1.0.7...v1.0.8) (2020-01-31)
+
+
+### Bug Fixes
+
+* add missing imagesSelector option to effect deps ([fb5adf3](https://github.com/mamal72/react-use-lazy-images/commit/fb5adf3e490ac91c31578a509edaace011d84a91))
+
 ### [1.0.7](https://github.com/mamal72/react-use-lazy-images/compare/v1.0.6...v1.0.7) (2020-01-31)
 
 ### [1.0.6](https://github.com/mamal72/react-use-lazy-images/compare/v1.0.5...v1.0.6) (2020-01-31)
