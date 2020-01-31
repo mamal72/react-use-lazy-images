@@ -67,7 +67,7 @@ export function useLazyImages<T extends HTMLElement>({
         lazyImageObserver.unobserve(lazyImage)
       })
     }
-  }, [ref, placeholderSrc, placeholderSrcset])
+  }, [ref, placeholderSrc, placeholderSrcset, imagesSelector])
 
   return ref
 }
