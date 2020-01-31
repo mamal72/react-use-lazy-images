@@ -1,8 +1,8 @@
-![NPM](https://img.shields.io/npm/l/react-use-lazy-images) [![Build Status](https://travis-ci.com/mamal72/react-use-lazy-images.svg?branch=master)](https://travis-ci.com/mamal72/react-use-lazy-images) ![David](https://img.shields.io/david/mamal72/react-use-lazy-images) ![npm](https://img.shields.io/npm/v/react-use-lazy-images) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/react-use-lazy-images) ![npm](https://img.shields.io/npm/dm/react-use-lazy-images)
+![NPM](https://img.shields.io/npm/l/react-use-lazy-images) [![Build Status](https://travis-ci.com/mamal72/react-use-lazy-images.svg?branch=master)](https://travis-ci.com/mamal72/react-use-lazy-images) ![David](https://img.shields.io/david/mamal72/react-use-lazy-images) ![npm](https://img.shields.io/npm/v/react-use-lazy-images)
 
 # react-use-lazy-images
 
-Minimal zero dependency lazy load images solution with simple React Hook for all images of an element.
+Minimal zero dependency lazy load images solution with a simple React Hook for all images of an element.
 
 Note that this package is using [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) and won't do anything if this API isn't available on the user's browser.
 
